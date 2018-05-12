@@ -4,8 +4,8 @@ Ce dépot a pour objectif de sauvegarder toutes mes configurations linux
 
 # General
 
-OS: Antergos
-WM: KDE5
+- OS: Antergos
+- WM: KDE5
 
 # Install
 
