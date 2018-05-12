@@ -1,0 +1,8 @@
+[Formats]
+LANG=fr_FR.UTF-8
+LC_COLLATE=fr_FR.UTF-8
+LC_NUMERIC=en_US.UTF-8
+useDetailed=true
+
+[Translations]
+LANGUAGE=fr:en_US

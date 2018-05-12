@@ -1,0 +1,8 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.spotify.com]
+open.spotify.com     ".spotify.com"       "/"          1523894278    0 sp_t                 5    8d60e9da1ebb021bf13de04cc24f56cf
+open.spotify.com     ".spotify.com"       "/"          1522420519    0 sp_landing           5    http%3A%2F%2Fopen.spotify.com%2Fimage%2F55ce838be2ee923213dee5933e0e3397f0074ef7
+[.google.com]
+docs.google.com      ".google.com"        "/"          1536673118    0 NID                  6    125=lVV7bk3GQvdNV1k-nvZ1zS1qZQn3IZRgy6dY0GuIloHfdquohNbvu8EbzcywVX-0NI2WDxp_Zqztl0tgi1fRelKU0DCFLztYfEe70A4xXNSygKs7eYS3Z1-RnzsxCxx-4axivdS2K5kpkmiL557djuNCxZJ7

@@ -1,0 +1,21 @@
+[13.03.2018 16:43:30] [ info]  Ethereum pool client stopped
+[13.03.2018 16:44:22] [ info]  Successfully connected to pool: stratum+tcp://eth.pool.minergate.com:45791. worker_id="7e5df372-7015-44cc-afb1-dcb6cd146f94"
+[13.03.2018 16:44:22] [ info]  New Job: seedHash="32a2478e57a4b36e5f5e5420e5443a5a82dac6ff01a0548737fada91d743d7d0" headerHash="e15929357886395b6f705cd69ae0dd6060faec56e7f0e984380c662fc6b7289a" boundary="000010c6f7a0b5ed8d36b4c7f34938583621fafc8b0079a2834d26fa3fcc9ea9"
+[13.03.2018 16:44:22] [ info]  update job
+[13.03.2018 16:44:22] [ info]  preparing unloaded DAG...32a2478e57a4b36e5f5e5420e5443a5a82dac6ff01a0548737fada91d743d7d0
+[13.03.2018 16:44:24] [ info]  New Job: seedHash="32a2478e57a4b36e5f5e5420e5443a5a82dac6ff01a0548737fada91d743d7d0" headerHash="6ef92d9f7064ce0ce05267dbbcc8e15578ec48ac59498647732743e96f78d1d3" boundary="000010c6f7a0b5ed8d36b4c7f34938583621fafc8b0079a2834d26fa3fcc9ea9"
+[13.03.2018 16:44:24] [ info]  update job
+[13.03.2018 16:44:26] [ info]  New Job: seedHash="32a2478e57a4b36e5f5e5420e5443a5a82dac6ff01a0548737fada91d743d7d0" headerHash="a33981c161e3f6f74f410bcce7a35ad32e28142b55f1253c5986f4044a2e136f" boundary="000010c6f7a0b5ed8d36b4c7f34938583621fafc8b0079a2834d26fa3fcc9ea9"
+[13.03.2018 16:44:26] [ info]  update job
+[13.03.2018 16:44:39] [ info]  New Job: seedHash="32a2478e57a4b36e5f5e5420e5443a5a82dac6ff01a0548737fada91d743d7d0" headerHash="4e8532b687049758dd5effa7e1b785a7a4856e7329154d88e7d46b05a6721fa9" boundary="000010c6f7a0b5ed8d36b4c7f34938583621fafc8b0079a2834d26fa3fcc9ea9"
+[13.03.2018 16:44:39] [ info]  update job
+[13.03.2018 16:44:50] [ info]  New Job: seedHash="32a2478e57a4b36e5f5e5420e5443a5a82dac6ff01a0548737fada91d743d7d0" headerHash="9a94fbfd4a6846bbcb3e0d1746c66f1ad811e3838b79cd59cffc2c6964cd2182" boundary="000010c6f7a0b5ed8d36b4c7f34938583621fafc8b0079a2834d26fa3fcc9ea9"
+[13.03.2018 16:44:50] [ info]  update job
+[13.03.2018 16:45:11] [ info]  New Job: seedHash="32a2478e57a4b36e5f5e5420e5443a5a82dac6ff01a0548737fada91d743d7d0" headerHash="c9bb67a22888fda4595121cf4df795b05486b99020734b4684fa61ae10516951" boundary="000010c6f7a0b5ed8d36b4c7f34938583621fafc8b0079a2834d26fa3fcc9ea9"
+[13.03.2018 16:45:11] [ info]  update job
+[13.03.2018 16:45:27] [ info]  New Job: seedHash="32a2478e57a4b36e5f5e5420e5443a5a82dac6ff01a0548737fada91d743d7d0" headerHash="7b46be0665f52a106edbd1e035c342c69fd2aff04c2eed2398f609d493ef788b" boundary="000010c6f7a0b5ed8d36b4c7f34938583621fafc8b0079a2834d26fa3fcc9ea9"
+[13.03.2018 16:45:27] [ info]  update job
+[13.03.2018 16:45:32] [ info]  Ethereum pool client stopped
+[13.03.2018 16:45:32] [error]  [3] DAG preparing aborted with message: std::exception
+[13.03.2018 16:45:32] [ warn]  DAG creating aborted
+[13.03.2018 16:45:34] [ info]  Ethereum pool client stopped

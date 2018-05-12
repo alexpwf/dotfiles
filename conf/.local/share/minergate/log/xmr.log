@@ -1,0 +1,5 @@
+[13.03.2018 16:43:10] [ info]  Successfully connected to pool: stratum+tcp://fcn-xmr.pool.minergate.com:45590. session_id="58fd985b-f726-4d5b-84e0-a6dd5b2e203d"
+[13.03.2018 16:43:10] [ info]  New Job: job_id="92f44bce-38e5-4ced-a508-57cacfadb672" blob="0606fde29fd505adf3c353280b4b53a8fb4f3cc14bdd29a9d60d8d025f961c395e6de66e1aa49500000000f547aa2a0778da779fea11feae38087d24b059f211076b1d8b591f4a7fc3199507" target="e4a63d00"
+[13.03.2018 16:43:10] [ info]  New difficulty: 1063
+[13.03.2018 16:43:17] [ info]  Stratum client stopped
+[13.03.2018 16:45:34] [ info]  Stratum client stopped

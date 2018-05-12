@@ -1,0 +1,20 @@
+[Keyboard]
+KeyboardRepeating=0
+NumLock=2
+RepeatDelay=208
+RepeatRate=25.33
+
+[Libinput][1133][49970][Logitech Gaming Mouse G502]
+PointerAcceleration=0.053
+
+[Libinput][2][1][PS/2 Generic Mouse]
+PointerAcceleration=0.053
+
+[Mouse]
+Acceleration=2
+AccelerationProfile=Adaptive
+MouseButtonMapping=RightHanded
+ReverseScrollPolarity=false
+Threshold=4
+cursorSize=0
+cursorTheme=breeze_cursors

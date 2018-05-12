@@ -1,0 +1,5 @@
+[EmbedSettings]
+embed-application/wps-office.docx=false
+embed-application/x-bittorrent=false
+embed-application/xml=false
+embed-image/jpeg=false

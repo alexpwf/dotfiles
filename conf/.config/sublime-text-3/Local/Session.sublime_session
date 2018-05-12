@@ -1,0 +1,694 @@
+{
+	"folder_history":
+	[
+		"/home/alex/tmp/scrap4chan",
+		"/home/alex/tmp/2018",
+		"/home/alex/tmp/mongo-test",
+		"/home/alex/tmp/coinCapScrap",
+		"/home/alex/tek2/CPE_2014_allum1",
+		"/home/alex/Downloads/skel_cpp",
+		"/home/alex/tmp/elipapa-marckdown-cv",
+		"/home/alex/tmp/hacktoberfest",
+		"/home/alex/tmp/CactaiGotchi",
+		"/home/alex/tmp/CaneleClicker",
+		"/home/alex/tmp/TabMark",
+		"/home/alex/gekko",
+		"/home/alex/tmp/ideaGene"
+	],
+	"last_version": 3170,
+	"last_window_id": 15,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"n",
+						"n1"
+					],
+					[
+						"mpm",
+						"mapetitemousse"
+					],
+					[
+						"crypt",
+						"crypto"
+					],
+					[
+						"vi",
+						"vicie"
+					],
+					[
+						"cryptopia",
+						"cryptopia"
+					],
+					[
+						"s",
+						"scrap"
+					],
+					[
+						"bit",
+						"bittrexCurrency"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"pol",
+						"poloniexCurrency"
+					],
+					[
+						"loa",
+						"loadMarketCurrency"
+					],
+					[
+						"sc",
+						"scrapeIt"
+					],
+					[
+						"se",
+						"percentSevenDay"
+					],
+					[
+						"a",
+						"aplyPourc"
+					],
+					[
+						"v",
+						"volume24"
+					],
+					[
+						"per",
+						"percentSevenDay"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"coi",
+						"coins"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/alex/tmp/2018/(3 secondes de blanc] Salut à tous, ceci est la vi.txt",
+				"/home/alex/tmp/coinCapScrap/app.js",
+				"/home/alex/tmp/coinCapScrap/site.html",
+				"/home/alex/tmp/coinCapScrap/example.json",
+				"/home/alex/tek2/CPE_2014_allum1/Makefile",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/Makefile",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printo.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printi.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printdb.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printd.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printc.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printb.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printS.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/print-x.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printp.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printstr.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printu.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printx.c",
+				"/home/alex/gekko/plugins/tradingAdvisor/baseTradingMethod.js",
+				"/home/alex/gekko/core/util.js",
+				"/home/alex/tmp/Java_area_2016/pom.xml"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 393.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 830.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 153.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ke",
+						"keyword"
+					],
+					[
+						"thre",
+						"thread"
+					],
+					[
+						"res",
+						"res_now"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"lo",
+						"lookingFor"
+					],
+					[
+						"se",
+						"send_requete_api_4chan"
+					],
+					[
+						"n",
+						"n1"
+					],
+					[
+						"mpm",
+						"mapetitemousse"
+					],
+					[
+						"crypt",
+						"crypto"
+					],
+					[
+						"vi",
+						"vicie"
+					],
+					[
+						"cryptopia",
+						"cryptopia"
+					],
+					[
+						"s",
+						"scrap"
+					],
+					[
+						"bit",
+						"bittrexCurrency"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"pol",
+						"poloniexCurrency"
+					],
+					[
+						"loa",
+						"loadMarketCurrency"
+					],
+					[
+						"sc",
+						"scrapeIt"
+					],
+					[
+						"a",
+						"aplyPourc"
+					],
+					[
+						"v",
+						"volume24"
+					],
+					[
+						"per",
+						"percentSevenDay"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"coi",
+						"coins"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/alex/tmp/scrap4chan/package.json",
+					"settings":
+					{
+						"buffer_size": 260,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/alex/tmp/scrap4chan/index.js",
+					"settings":
+					{
+						"buffer_size": 3651,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "const https = require('https')"
+					}
+				},
+				{
+					"file": "/home/alex/tmp/scrap4chan/soc.js",
+					"settings":
+					{
+						"buffer_size": 3589,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Bonjour,\nLe guide pour github est terminer (juste quelques fautes), hésiter pas si ce n'est pas claire\nLes taches sont sur github. Nous utiliserons ansible pour les scrypts d'installation.\nJ'ai egalement mis une petite aide pour la vm dans le README du projet.\nDelima pense à envoyer dans la semaine un message sur slack, tu trouveras nos mails sur le drive.\n\n\nfunction x(ms) {\n    return new Promise(resolve => setTimeout(resolve, ms));\n}\n\nawait x(300000)\n611EFF64AC446E2D33A25E64D4",
+					"settings":
+					{
+						"buffer_size": 483,
+						"line_ending": "Unix",
+						"name": "Bonjour,"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/alex/tmp/scrap4chan"
+			],
+			"file_history":
+			[
+				"/home/alex/tmp/2018/(3 secondes de blanc] Salut à tous, ceci est la vi.txt",
+				"/home/alex/tmp/coinCapScrap/app.js",
+				"/home/alex/tmp/coinCapScrap/site.html",
+				"/home/alex/tmp/coinCapScrap/example.json",
+				"/home/alex/tek2/CPE_2014_allum1/Makefile",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/Makefile",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printo.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printi.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printdb.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printd.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printc.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printb.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printS.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/print-x.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printp.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printstr.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printu.c",
+				"/home/alex/tek2/CPE_2014_allum1/lib/src/printx.c",
+				"/home/alex/gekko/plugins/tradingAdvisor/baseTradingMethod.js",
+				"/home/alex/gekko/core/util.js",
+				"/home/alex/tmp/Java_area_2016/pom.xml"
+			],
+			"find":
+			{
+				"height": 26.9192422732
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/alex/tmp/scrap4chan"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/alex/tmp/scrap4chan/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 260,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/alex/tmp/scrap4chan/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3651,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										433,
+										433
+									]
+								],
+								"settings":
+								{
+									"auto_name": "const https = require('https')",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 281.156530409,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/alex/tmp/scrap4chan/soc.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3589,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										536,
+										536
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 483,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										483,
+										457
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Bonjour,",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.9192422732
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,2693,24,3840,1049,3840,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 49.850448654
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 393.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 830.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 153.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 15,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

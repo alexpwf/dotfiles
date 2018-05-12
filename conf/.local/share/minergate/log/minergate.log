@@ -1,0 +1,101 @@
+[26.09.2017 10:36:41] [ info]  app version: 6.9
+[26.09.2017 10:36:41] [error]  Can't load achievements
+[26.09.2017 10:36:41] [ info]  Loading miners...
+[26.09.2017 10:36:41] [ info]  Miners loaded successfully
+[26.09.2017 10:36:41] [ info]  Pool parameters query...
+[26.09.2017 10:36:41] [error]  API auth error. Error: MissingHeader  Message: Client version must be specified.
+[26.09.2017 10:36:41] [error]  Updates response data: {"error":"MissingHeader","header":"client-version","message":"Client version must be specified."}
+[26.09.2017 16:40:57] [ info]  app version: 6.9
+[26.09.2017 16:40:57] [error]  Can't load achievements
+[26.09.2017 16:40:57] [ info]  Loading miners...
+[26.09.2017 16:40:57] [ info]  Miners loaded successfully
+[26.09.2017 16:40:57] [ info]  Pool parameters query...
+[26.09.2017 16:40:57] [error]  POOL response data: 
+[26.09.2017 16:40:58] [ info]  Pool parameters query...
+[26.09.2017 16:40:58] [error]  BENCHMARK starting flag response data: 
+[26.09.2017 16:40:58] [error]  Tracker error: 3
+[26.09.2017 16:40:58] [error]  POOL response data: 
+[26.09.2017 16:40:59] [ info]  Pool parameters query...
+[26.09.2017 16:40:59] [error]  POOL response data: 
+[26.09.2017 16:41:00] [ info]  Pool parameters query...
+[26.09.2017 16:41:00] [error]  POOL response data: 
+[26.09.2017 16:41:01] [ info]  Pool parameters query...
+[26.09.2017 16:41:01] [error]  Unable to get configuration from https://rest.minergate.com.
+[26.09.2017 16:41:01] [error]  POOL response data: 
+[26.09.2017 16:41:01] [error]  Tracker error: 3
+[08.10.2017 11:39:59] [ info]  app version: 6.9
+[08.10.2017 11:39:59] [error]  Can't load achievements
+[08.10.2017 11:39:59] [ info]  Loading miners...
+[08.10.2017 11:39:59] [ info]  Miners loaded successfully
+[08.10.2017 11:39:59] [ info]  Pool parameters query...
+[08.10.2017 11:39:59] [error]  POOL response data: 
+[08.10.2017 11:40:00] [ info]  Pool parameters query...
+[08.10.2017 11:40:00] [error]  BENCHMARK starting flag response data: 
+[08.10.2017 11:40:00] [error]  Tracker error: 3
+[08.10.2017 11:40:00] [error]  POOL response data: 
+[08.10.2017 11:40:01] [ info]  Pool parameters query...
+[08.10.2017 11:40:01] [error]  POOL response data: 
+[08.10.2017 11:40:02] [ info]  Pool parameters query...
+[08.10.2017 11:40:02] [error]  POOL response data: 
+[08.10.2017 11:40:03] [ info]  Pool parameters query...
+[08.10.2017 11:40:03] [error]  Unable to get configuration from https://rest.minergate.com.
+[08.10.2017 11:40:03] [error]  POOL response data: 
+[08.10.2017 11:40:03] [error]  Tracker error: 3
+[09.10.2017 08:20:29] [ info]  app version: 6.9
+[09.10.2017 08:20:29] [error]  Can't load achievements
+[09.10.2017 08:20:29] [ info]  Loading miners...
+[09.10.2017 08:20:29] [ info]  Miners loaded successfully
+[09.10.2017 08:20:29] [ info]  Pool parameters query...
+[09.10.2017 08:20:30] [error]  POOL response data: 
+[09.10.2017 08:20:31] [ info]  Pool parameters query...
+[09.10.2017 08:20:31] [error]  BENCHMARK starting flag response data: 
+[09.10.2017 08:20:31] [error]  Tracker error: 3
+[09.10.2017 08:20:31] [error]  POOL response data: 
+[09.10.2017 08:20:32] [ info]  Pool parameters query...
+[09.10.2017 08:20:32] [error]  POOL response data: 
+[09.10.2017 08:20:33] [ info]  Pool parameters query...
+[09.10.2017 08:20:33] [error]  POOL response data: 
+[09.10.2017 08:20:34] [ info]  Pool parameters query...
+[09.10.2017 08:20:34] [error]  Unable to get configuration from https://rest.minergate.com.
+[09.10.2017 08:20:34] [error]  POOL response data: 
+[09.10.2017 08:20:34] [error]  Tracker error: 3
+[09.10.2017 08:20:39] [error]  POOL response data: 
+[09.10.2017 08:20:44] [error]  POOL response data: 
+[09.10.2017 08:20:49] [error]  POOL response data: 
+[09.10.2017 08:20:54] [error]  POOL response data: 
+[09.10.2017 08:20:59] [error]  POOL response data: 
+[09.10.2017 08:21:04] [error]  POOL response data: 
+[09.10.2017 12:33:28] [ info]  app version: 6.9
+[09.10.2017 12:33:28] [error]  Can't load achievements
+[09.10.2017 12:33:28] [ info]  Loading miners...
+[09.10.2017 12:33:28] [ info]  Miners loaded successfully
+[09.10.2017 12:33:28] [ info]  Pool parameters query...
+[09.10.2017 12:33:28] [error]  POOL response data: 
+[09.10.2017 12:33:29] [ info]  Pool parameters query...
+[09.10.2017 12:33:29] [error]  BENCHMARK starting flag response data: 
+[09.10.2017 12:33:29] [error]  Tracker error: 3
+[09.10.2017 12:33:29] [error]  POOL response data: 
+[09.10.2017 12:33:30] [ info]  Pool parameters query...
+[09.10.2017 12:33:30] [error]  POOL response data: 
+[09.10.2017 12:33:31] [ info]  Pool parameters query...
+[09.10.2017 12:33:31] [error]  POOL response data: 
+[09.10.2017 12:33:32] [ info]  Pool parameters query...
+[09.10.2017 12:33:32] [error]  Unable to get configuration from https://rest.minergate.com.
+[09.10.2017 12:33:32] [error]  POOL response data: 
+[09.10.2017 12:33:32] [error]  Tracker error: 3
+[09.10.2017 12:33:38] [error]  POOL response data: 
+[13.03.2018 16:41:54] [ info]  app version: 7.2
+[13.03.2018 16:41:54] [error]  Can't load achievements
+[13.03.2018 16:41:54] [ info]  Loading miners...
+[13.03.2018 16:41:54] [ info]  Miners loaded successfully
+[13.03.2018 16:41:54] [ info]  Pool parameters query...
+[13.03.2018 16:41:54] [ info]  common wsa connected
+[13.03.2018 16:41:55] [error]  API error. Error: MissingHeader  Category:  Message: Client version must be specified.
+[13.03.2018 16:41:55] [error]  Updates response data: {"error":"MissingHeader","header":"client-version","message":"Client version must be specified."}
+[13.03.2018 16:43:10] [error]  Can't load achievements
+[13.03.2018 16:43:17] [ info]  Stratum client stopped
+[13.03.2018 16:43:26] [ info]  Achievement 'Crafty' opened
+[13.03.2018 16:44:17] [ info]  wsa resumed
+[13.03.2018 16:44:17] [ info]  Connecting to WS API server...
+[13.03.2018 16:44:18] [ info]  Succesfully connected to WS API server
+[13.03.2018 16:45:34] [ info]  Stratum client stopped

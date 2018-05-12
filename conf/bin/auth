@@ -1,0 +1,8 @@
+#! /bin/sh
+
+while true
+do
+~/bin/ns_auth -u loubey_a
+notify-send ns_auth
+sleep 15m
+done

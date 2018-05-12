@@ -1,0 +1,576 @@
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+URL=file:///home/alex/.config/kcmfonts
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Nagios
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Nagios
+Mode Set By User=false
+URL=file:///home/alex/tmp/gmodServer/garrysmod/cfg/mount.cfg
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=Nagios
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Nagios
+Mode Set By User=false
+URL=file:///home/alex/tmp/gmodServer/serverfiles/garrysmod/cfg/server.cfg
+
+[Kate Plugins]
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=false
+katectagsplugin=false
+katefilebrowserplugin=false
+katefiletreeplugin=true
+kategdbplugin=false
+katekonsoleplugin=false
+kateopenheaderplugin=false
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+kterustcompletionplugin=false
+ktexteditor_lumen=false
+ktexteditorpreviewplugin=false
+tabswitcherplugin=true
+textfilterplugin=false
+
+[MainWindow0]
+Active ViewSpace=0
+Height 1080=821
+Kate-MDI-H-Splitter=200,1011,200
+Kate-MDI-Sidebar-0-Splitter=821
+Kate-MDI-Sidebar-1-Splitter=
+Kate-MDI-Sidebar-2-Splitter=
+Kate-MDI-Sidebar-3-Splitter=0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=true
+Kate-MDI-ToolView-kateproject-Persistent=false
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Sidebar-Position=1
+Kate-MDI-ToolView-kateproject-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Persistent=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-V-Splitter=150,787,200
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABOMAAAM1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Width 1920=1251
+
+[MainWindow0 Settings]
+Height 1080=821
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABOMAAAM1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Width 1920=1251
+WindowState=8
+
+[MainWindow0-Splitter 0]
+Children=MainWindow0-ViewSpace 0
+Orientation=2
+Sizes=752
+
+[MainWindow0-ViewSpace 0]
+Active View=file:///home/alex/.config/kcmfonts
+Count=1
+Documents=file:///home/alex/.config/kcmfonts
+View 0=file:///home/alex/.config/kcmfonts
+View 1=file:///home/alex/tmp/gmodServer/garrysmod/cfg/server.cfg
+View 2=file:///home/alex/tmp/gmodServer/serverfiles/garrysmod/cfg/server.cfg
+
+[MainWindow0-ViewSpace 0 file:///home/alex/.config/Trolltech.conf]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/.config/emailidentities]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/.config/kcmfonts]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/.config/kwinrc]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/.cpp2diarc]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/.local/share/plasma_notes/todolist]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/.ssh/authorized_keys]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/AirportPart1.mdj]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Cryptagora/Cryptagora-prisma/.travis.yml]
+CursorColumn=17
+CursorLine=6
+JumpList=
+TextFolding=[]
+ViMarks=.,6,16,[,6,16,],6,16
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/2020_50M_Cryptagora.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/CMakelists.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/Gomoku-1.2.9/INSTALL]
+CursorColumn=13
+CursorLine=8
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/Legion.S02E05.SUBFRENCH.720p.HDTV.x264-SH0W/legion.s02e05.subfrench.720p.hdtv.x264-sh0w.nfo]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/Socket.cpp]
+CursorColumn=21
+CursorLine=16
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/cpp2dia/INSTALL]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/data_places.csv]
+CursorColumn=182
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/docgen-2.1.3/docgen]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/flyer final.pdf]
+CursorColumn=44
+CursorLine=184
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/flyer final3.pdf]
+CursorColumn=44
+CursorLine=1319
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/judgment.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/logcat (1).txt]
+CursorColumn=57
+CursorLine=21479
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/logcat.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=.,0,0,[,0,0,],0,0
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/login]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/manifest.json]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/skel_cpp/example.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/tmp.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/tor-browser_en-US/Browser/TorBrowser/Data/Tor/cached-microdesc-consensus]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/tor-browser_en-US/start-tor-browser.desktop]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/web-build_2018-02-08T12_54_11.txt]
+CursorColumn=62
+CursorLine=20332
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/wiki-moins2fautes.md]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/Downloads/x92.bat]
+CursorColumn=97
+CursorLine=7
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/capt_in/app/src/debug/res/values/google_maps_api.xml]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/capt_in/app/src/release/res/values/google_maps_api.xml]
+CursorColumn=0
+CursorLine=19
+JumpList=
+TextFolding=[]
+ViMarks=.,17,113,[,17,113,],17,123
+
+[MainWindow0-ViewSpace 0 file:///home/alex/protoHeredajo/app/src/main/assets/resize_bg.sh]
+CursorColumn=31
+CursorLine=4
+JumpList=
+TextFolding=[]
+ViMarks=.,5,17,[,5,10,],5,17
+
+[MainWindow0-ViewSpace 0 file:///home/alex/protoHeredajo/app/src/main/assets/resize_thumb.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=.,4,24,[,4,23,],4,24
+
+[MainWindow0-ViewSpace 0 file:///home/alex/protoHeredajo/app/src/main/res/clean.sh]
+CursorColumn=9
+CursorLine=5
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tek3/cryptagora/rendu/2020_50M_Cryptagora.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/gmodServer/garrysmod/cfg/mount.cfg]
+CursorColumn=5
+CursorLine=8
+JumpList=
+TextFolding=[]
+ViMarks=.,8,4,[,8,2,],8,4
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/gmodServer/garrysmod/cfg/server.cfg]
+CursorColumn=18
+CursorLine=39
+JumpList=
+TextFolding=[]
+ViMarks=.,39,0,[,39,0,],39,0
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/gmodServer/serverfiles/garrysmod/cfg/mount.cfg]
+CursorColumn=45
+CursorLine=8
+JumpList=
+TextFolding=[]
+ViMarks=.,8,1,[,8,1,],8,45
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/gmodServer/serverfiles/garrysmod/cfg/server.cfg]
+CursorColumn=14
+CursorLine=21
+JumpList=
+TextFolding=[]
+ViMarks=.,0,0,[,0,0,],0,0
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/nxleak/Startup.lua]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/nxleak/lua/sh_init.lua]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/nxleak/lua/sh_settings.lua]
+CursorColumn=46
+CursorLine=15
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/out.txt]
+CursorColumn=539
+CursorLine=4
+JumpList=
+TextFolding=[]
+ViMarks=.,0,0,[,0,0,],0,0
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/sqliteescape.sh]
+CursorColumn=55
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=.,0,76,[,0,76,],0,76
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/steamcmd_linux/steamcmd.sh]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/alex/tmp/txt.txt]
+CursorColumn=475
+CursorLine=9
+JumpList=
+TextFolding=[]
+ViMarks=.,9,0,[,0,0,],9,474
+
+[MainWindow0-ViewSpace 0 file:///run/media/alex/6A5C70285C6FED6F/Users/alex/gomoku/CMakeLists.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///run/media/alex/_/etc/avahi/hosts]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///run/media/alex/_/etc/hosts]
+CursorColumn=0
+CursorLine=7
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///run/media/alex/f68a9c38-b499-485b-a92e-6310a49bbd9c/alex/.android/default.sql]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///run/media/alex/f68a9c38-b499-485b-a92e-6310a49bbd9c/alex/AndroidStudioProjects/Basic/app/src/main/java/com/beer/alex/basic/MainActivity.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///run/media/alex/f68a9c38-b499-485b-a92e-6310a49bbd9c/alex/AndroidStudioProjects/caca/app/src/main/java/com/beer/alex/caca/MainActivity.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///run/media/alex/f68a9c38-b499-485b-a92e-6310a49bbd9c/alex/MyApplication/app/src/main/java/com/alex/myapplication/MainActivity.java]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///tmp/mozilla_alex0/Clé-API-flickr-1.txt]
+CursorColumn=7
+CursorLine=34
+JumpList=
+TextFolding=[]
+ViMarks=.,27,3,[,27,3,],27,3
+
+[MainWindow0-ViewSpace 0 file:///tmp/mozilla_alex0/Clé-API-flickr.txt]
+CursorColumn=32
+CursorLine=1
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///tmp/mozilla_alex0/example.json]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///tmp/mozilla_alex0/lisez-moi.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[MainWindow0-ViewSpace 1]
+Active View=file:///home/alex/tmp/txt.txt
+Count=1
+Documents=file:///home/alex/tmp/txt.txt
+View 0=file:///home/alex/tmp/txt.txt
+
+[MainWindow0-ViewSpace 1 file:///home/alex/tmp/txt.txt]
+CursorColumn=475
+CursorLine=9
+JumpList=
+TextFolding=[]
+ViMarks=.,9,0,[,0,0,],9,474
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katesearchplugin:MainWindow:0]
+BinaryFiles=false
+CurrentExcludeFilter=-1
+CurrentFilter=-1
+ExcludeFilters=
+ExpandSearchResults=false
+Filters=
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Replaces=
+Search=
+SearchDiskFiles=
+SearchDiskFiless=
+UseRegExp=false
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/data_places.csv
+File10[$e]=$HOME/.config/kcmfonts
+File2[$e]=$HOME/capt_in/app/src/debug/res/values/google_maps_api.xml
+File3[$e]=$HOME/capt_in/app/src/release/res/values/google_maps_api.xml
+File4[$e]=$HOME/Cryptagora/Cryptagora-prisma/.travis.yml
+File5[$e]=$HOME/Downloads/Legion.S02E05.SUBFRENCH.720p.HDTV.x264-SH0W/legion.s02e05.subfrench.720p.hdtv.x264-sh0w.nfo
+File6[$e]=$HOME/Downloads/manifest.json
+File7[$e]=$HOME/.config/emailidentities
+File8[$e]=$HOME/.config/kwinrc
+File9[$e]=$HOME/.config/Trolltech.conf
+Name1[$e]=data_places.csv
+Name10[$e]=kcmfonts
+Name2[$e]=google_maps_api.xml
+Name3[$e]=google_maps_api.xml
+Name4[$e]=.travis.yml
+Name5[$e]=legion.s02e05.subfrench.720p.hdtv.x264-sh0w.nfo
+Name6[$e]=manifest.json
+Name7[$e]=emailidentities
+Name8[$e]=kwinrc
+Name9[$e]=Trolltech.conf

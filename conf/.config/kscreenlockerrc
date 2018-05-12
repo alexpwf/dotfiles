@@ -1,0 +1,10 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Greeter]
+Theme=com.github.varlesh.adapta
+WallpaperPlugin=org.kde.slideshow
+
+[Greeter][Wallpaper][org.kde.slideshow][General]
+SlideInterval=70
+SlidePaths=/home/alex/Images/Wallpp

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Thermal Monitor</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>clearmartin</author>
+  <homepage>https://store.kde.org/p/998915</homepage>
+  <licence></licence>
+  <version>1.2.8</version>
+  <rating>80</rating>
+  <downloads>28404</downloads>
+  <installedfile>/tmp/plasma-applet-thermal-monitor.plasmoid</installedfile>
+  <id>998915</id>
+  <releasedate>2017-09-08</releasedate>
+  <summary>Shows temperature of various available sensors including CPU, GPU (lmsensors and nvidia-smi if appliable) and HDD (using udisks2 d-bus backend).&lt;br />
+&lt;br />
+It can also show group of temperatures in one - the highest of them.&lt;br />
+&lt;br />
+REQUIRED DEPENDENCIES&lt;br />
+- qt5-graphicaleffects&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img//hive/content-pre1/170354-1.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img//hive/content-pre1/170354-1.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1503273190/s/ddaa8610a2cc2e4914c7f990368b3e2e/t/1521415123/o/1/plasma-applet-thermal-monitor.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Resources Monitor</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>clearmartin</author>
+  <homepage>https://store.kde.org/p/998908</homepage>
+  <licence></licence>
+  <version>1.0.5</version>
+  <rating>72</rating>
+  <downloads>33733</downloads>
+  <installedfile>/tmp/170120-package.zip</installedfile>
+  <id>998908</id>
+  <releasedate>2015-11-15</releasedate>
+  <summary>Plasma 5 plasmoid for monitoring CPU, frequency, RAM and swap activity.&lt;br />
+&lt;br />
+REQUIRED DEPENDENCIES&lt;br />
+- qt5-graphicaleffects&lt;br />
+- e.g. package for kubuntu users: libqt5qml-graphicaleffects&lt;br />
+&lt;br />
+HOW TO INSTALL&lt;br />
+- Add Widgets... -&amp;gt; Get new widgets -&amp;gt; Download new...</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img//hive/content-pre1/170120-1.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img//hive/content-pre1/170120-1.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1464642024/s/c74a8fd02a8b9e81f1ccb0535f8f23b2/t/1521415131/o/1/170120-package.zip</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>TodoList</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Zren</author>
+  <homepage>https://store.kde.org/p/1152230</homepage>
+  <licence></licence>
+  <version>7</version>
+  <rating>73</rating>
+  <downloads>4968</downloads>
+  <installedfile>/tmp/todolist-v7.plasmoid</installedfile>
+  <id>1152230</id>
+  <releasedate>2017-08-10</releasedate>
+  <summary>&lt;strong>Requires the kdeplasma-addons package&lt;/strong> (sudo apt install kdeplasma-addons) since we use the sticky note widget's code to save to file.&lt;br />
+&lt;br />
+* List is saved to &lt;strong>~/.local/share/plasma_notes/todolist&lt;/strong> which you can open up in your text editor and edit (changes...</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img/9/1/9/3/2af7e9f65552e504e076dee8c34897d990ff.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img/9/1/9/3/2af7e9f65552e504e076dee8c34897d990ff.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1501738528/s/a3d2679473d2ff845465725b5f1942b8/t/1522455142/o/1/todolist-v7.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Simple System Monitor</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>KonstantinShtepa</author>
+  <homepage>https://store.kde.org/p/1173509</homepage>
+  <licence></licence>
+  <version>0.6</version>
+  <rating>70</rating>
+  <downloads>35680</downloads>
+  <installedfile>/tmp/plasma-simpleMonitor-v0.6.plasmoid</installedfile>
+  <id>1173509</id>
+  <releasedate>2017-08-23</releasedate>
+  <summary>A simple monitor for plasma, completely written in QML and Javascript.&lt;br />
+&lt;br />
+Currently can show OS info, CPU load/temp and memory load.&lt;br />
+&lt;br />
+Support for:&lt;br />
+* Background translucent and crystal&lt;br />
+* Change distro logo&lt;br />
+* Hide some widgets&lt;br />
+* Configure high and...</summary>
+  <changelog></changelog>
+  <preview>https://cn.pling.com/cache/100x100/img/6/a/3/1/ef08bbf43d444a2d3fcb4cb48c69559114fb.png</preview>
+  <previewBig>https://cn.pling.com/cache/770x540-0/img/6/a/3/1/ef08bbf43d444a2d3fcb4cb48c69559114fb.png</previewBig>
+  <payload>https://dl.opendesktop.org/api/files/downloadfile/id/1490537935/s/b8fea3178d306939703a13fc054fcba8/t/1521415119/o/1/plasma-simpleMonitor-v0.6.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,46 @@
+[
+    {
+        "enabled": true,
+        "id": "ad1c58438e71af3602e4ca5900eca284",
+        "metadata": {
+            "fullname": "xrandr-unknown",
+            "name": "eDP1"
+        },
+        "mode": {
+            "refresh": 60.049468994140625,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "113de43744cef15d8b72c8c44cba35d0",
+        "metadata": {
+            "fullname": "xrandr-EPSON PJ-16843009",
+            "name": "HDMI1"
+        },
+        "mode": {
+            "refresh": 59.810325622558594,
+            "size": {
+                "height": 800,
+                "width": 1280
+            }
+        },
+        "pos": {
+            "x": 1920,
+            "y": 0
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    }
+]

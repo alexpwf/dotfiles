@@ -1,0 +1,9 @@
+#!/bin/node
+if (process.argv.length < 4)
+	return console.log('pourcen number1 number2')
+
+let n1 =  parseFloat(process.argv[2])
+let n2 = parseFloat(process.argv[3])
+let tt = (n2 - n1) / n1 * 100
+console.log(tt + '%')
+
