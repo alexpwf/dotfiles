@@ -6,8 +6,16 @@ Ce dépot a pour objectif de sauvegarder toutes mes configurations linux
 
 OS: Antergos
 
-# Install package
+# Install
 
-``` bash
+## package
+
+```bash
 cat package.list | xargs yaourt -S --needed --noconfirm
+```
+
+## configuration
+
+```bash
+cp conf/* ~
 ```
